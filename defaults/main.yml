@@ -1,5 +1,6 @@
 ---
 network_hostname:
+network_fqdn_hostname:
 network_hosts: []
   # -
   #   ip:
